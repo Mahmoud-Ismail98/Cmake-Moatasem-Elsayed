@@ -9,7 +9,7 @@ message(STATUS "CMAKE Generator "${CMAKE_GENERATOR})
 #ENVIRONMENT variable
 set(var  $ENV{PATH})
 message(STATUS "PATH $ENV{PATH}")
-message(STATUS "argument vale ${my_value}") #cmake -G "MinGW Makefiles" .. -Dmy_value=10
+message(STATUS "argument vale ${my_value}")
 
 set(CMAKE_CXX_STANDARD 14)
 set(CMAKE_CXX_STANDARD_REQUIRED true)
