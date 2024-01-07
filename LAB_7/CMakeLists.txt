@@ -18,7 +18,6 @@ set(PRODUCT_YEAR "2022")
 if(DEBUG)
     set(AUTHOR "mahmoud korayem")
 endif()
-
 configure_file(defaultconfig.h.in defaultconfig.h)
 target_include_directories(hellobinary PUBLIC ${PROJECT_BINARY_DIR})
 
