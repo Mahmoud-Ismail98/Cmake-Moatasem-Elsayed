@@ -1,0 +1,6 @@
+D:/cources/moatsm/Cmake/Cmake-Moatasem-Elsayed/LAB_8_Cmake_Function_Cache_While/build/CMakeFiles/hellobinary.dir
+D:/cources/moatsm/Cmake/Cmake-Moatasem-Elsayed/LAB_8_Cmake_Function_Cache_While/build/CMakeFiles/edit_cache.dir
+D:/cources/moatsm/Cmake/Cmake-Moatasem-Elsayed/LAB_8_Cmake_Function_Cache_While/build/CMakeFiles/rebuild_cache.dir
+D:/cources/moatsm/Cmake/Cmake-Moatasem-Elsayed/LAB_8_Cmake_Function_Cache_While/build/lib/CMakeFiles/wifi_lib.dir
+D:/cources/moatsm/Cmake/Cmake-Moatasem-Elsayed/LAB_8_Cmake_Function_Cache_While/build/lib/CMakeFiles/edit_cache.dir
+D:/cources/moatsm/Cmake/Cmake-Moatasem-Elsayed/LAB_8_Cmake_Function_Cache_While/build/lib/CMakeFiles/rebuild_cache.dir

@@ -5,3 +5,14 @@ https://www.youtube.com/watch?v=oY-p90-6Siw&ab_channel=IdealBit
 cmake -G "MinGW Makefiles" ..
 make build
 .\hellobinary.exe
+
+
+LAB_7 
+ cd  build
+ cmake -G  "MinGW Makefiles" .. -DDEBUG=TRUE
+
+ make 
+
+ .\hellobinary.exe
+
+
