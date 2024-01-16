@@ -16,3 +16,11 @@ LAB_7
  .\hellobinary.exe
 
 
+LAB_9
+
+ cmake -G  "MinGW Makefiles" .. -DDEBUG=TRUE
+ make 
+ .\hellobinary.exe
+ cmake --install .
+
+

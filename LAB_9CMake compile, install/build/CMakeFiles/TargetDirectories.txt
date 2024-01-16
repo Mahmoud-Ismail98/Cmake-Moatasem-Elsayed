@@ -1,0 +1,14 @@
+D:/cources/moatsm/Cmake/Cmake-Moatasem-Elsayed/LAB_9CMake compile, install/build/CMakeFiles/hellobinary.dir
+D:/cources/moatsm/Cmake/Cmake-Moatasem-Elsayed/LAB_9CMake compile, install/build/CMakeFiles/edit_cache.dir
+D:/cources/moatsm/Cmake/Cmake-Moatasem-Elsayed/LAB_9CMake compile, install/build/CMakeFiles/rebuild_cache.dir
+D:/cources/moatsm/Cmake/Cmake-Moatasem-Elsayed/LAB_9CMake compile, install/build/CMakeFiles/list_install_components.dir
+D:/cources/moatsm/Cmake/Cmake-Moatasem-Elsayed/LAB_9CMake compile, install/build/CMakeFiles/install.dir
+D:/cources/moatsm/Cmake/Cmake-Moatasem-Elsayed/LAB_9CMake compile, install/build/CMakeFiles/install/local.dir
+D:/cources/moatsm/Cmake/Cmake-Moatasem-Elsayed/LAB_9CMake compile, install/build/CMakeFiles/install/strip.dir
+D:/cources/moatsm/Cmake/Cmake-Moatasem-Elsayed/LAB_9CMake compile, install/build/lib/CMakeFiles/wifi_lib.dir
+D:/cources/moatsm/Cmake/Cmake-Moatasem-Elsayed/LAB_9CMake compile, install/build/lib/CMakeFiles/edit_cache.dir
+D:/cources/moatsm/Cmake/Cmake-Moatasem-Elsayed/LAB_9CMake compile, install/build/lib/CMakeFiles/rebuild_cache.dir
+D:/cources/moatsm/Cmake/Cmake-Moatasem-Elsayed/LAB_9CMake compile, install/build/lib/CMakeFiles/list_install_components.dir
+D:/cources/moatsm/Cmake/Cmake-Moatasem-Elsayed/LAB_9CMake compile, install/build/lib/CMakeFiles/install.dir
+D:/cources/moatsm/Cmake/Cmake-Moatasem-Elsayed/LAB_9CMake compile, install/build/lib/CMakeFiles/install/local.dir
+D:/cources/moatsm/Cmake/Cmake-Moatasem-Elsayed/LAB_9CMake compile, install/build/lib/CMakeFiles/install/strip.dir

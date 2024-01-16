@@ -1,0 +1,3 @@
+D:/cources/moatsm/Cmake/Cmake-Moatasem-Elsayed/LAB_9CMake compile, install/build/executable/hellobinary.exe
+D:/cources/moatsm/Cmake/Cmake-Moatasem-Elsayed/LAB_9CMake compile, install/build/include/Wifi.hpp
+D:/cources/moatsm/Cmake/Cmake-Moatasem-Elsayed/LAB_9CMake compile, install/build/include/calc.hpp
